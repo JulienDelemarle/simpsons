@@ -12,7 +12,6 @@ function QuoteCard({character}) {
 
         <p>{character.character}</p>
 
-        <p> {character.characterDirection}</p>
 
       </div>
 
